@@ -1,0 +1,59 @@
+{
+  "localId": "771c8dcc-f3fa-4ffa-bd30-ea07dba5ffac",
+  "onlineId": null,
+  "assemblyId": null,
+  "productId": null,
+  "hash": "73a429725db08988d510223a7d1a8f57e29c0484",
+  "platform": 8,
+  "size": 40613,
+  "updatedTime": 0,
+  "version": "1.0",
+  "authors": {
+    "fallback": "MIUI"
+  },
+  "designers": {
+    "fallback": "MIUI"
+  },
+  "titles": {
+    "zh_TW": "深空",
+    "zh_HK": "深空",
+    "bo_CN": "སྐར་ཚོགས།",
+    "en_US": "Spacewalk",
+    "ug_CN": "كائىنات بوشلۇقى",
+    "zh_CN": "深空"
+  },
+  "descriptions": {},
+  "builtInThumbnails": {
+    "en_US": [
+      "en_US_lockscreen_0.jpg"
+    ],
+    "fallback": [
+      "preview_lockscreen_0.jpg"
+    ]
+  },
+  "builtInPreviews": {
+    "en_US": [
+      "en_US_lockscreen_0.jpg"
+    ],
+    "fallback": [
+      "preview_lockscreen_0.jpg"
+    ]
+  },
+  "thumbnails": [],
+  "previews": [],
+  "parentResources": [
+    {
+      "localId": "29a47ae3-765a-406b-acfc-c4a664e0fe05",
+      "resourceCode": "theme",
+      "extraMeta": {},
+      "metaPath": null,
+      "contentPath": null
+    }
+  ],
+  "subResources": [],
+  "extraMeta": {},
+  "metaPath": null,
+  "contentPath": null,
+  "rightsPath": null,
+  "screenRatio": "18:9"
+}
