@@ -1,0 +1,29 @@
+{
+    "Image_Build_IDs": {
+        "adsp": "ADSP.HT.5.0-00600-SM8150-1", 
+        "aop": "AOP.HO.1.1-00212-SM8150AAAAANAZO-1", 
+        "apps_LE": "LE.UM.2.4.2-00600-genericarmv8-64-1", 
+        "boot": "BOOT.XF.3.0-00435-SM8150LZB-2", 
+        "btfm": "BTFM.CHE.2.1.4-00495-QCACHROMZ-1", 
+        "cdsp": "CDSP.HT.2.0-00553-SM8150-1", 
+        "common": "SM8150.LA.1.0.r1-67502-STD.PROD-1", 
+        "glue": "GLUE.SM8150_LA.1.0-00193-NOOP_TEST-1", 
+        "modem": "MPSS.HE.1.0.c3-00118-SM8150_GEN_PACK-1.209465.1.210037.1", 
+        "npu": "NPU.FW.1.0-00039-SM8150-1", 
+        "slpi_cp": "SLPI.HY.2.1-00032-SM8150AZL-1", 
+        "slpi_rp": "SLPI.HY.2.1-00032-SM8150AZL-1", 
+        "spss": "SPSS.A1.1.2-00073-SM8150AAAAANAZS-1", 
+        "tz": "TZ.XF.5.2.2-00012-SM8150AAAAANAZT-1.185405.2.198739.1", 
+        "video": "VIDEO.IR.1.0-00063-PROD-1", 
+        "wapi": "WLAN_ADDON.HL.1.0-00034-CNSS_RMZ_WAPI-1", 
+        "wdsp": "WDSP.9340.2.0-00022-W9340AAAAAAAZQ-1", 
+        "wgig": "WIGIG.TLN.1.1-00052-WIGIGTLNZ-1", 
+        "wlan": "WLAN.HL.3.0.c2-00117-QCAHLSWMTPLZ-1"
+    }, 
+    "Metabuild_Info": {
+        "Meta_Build_ID": "SM8150.LA.1.0.r1-67502-STD.PROD-1", 
+        "Product_Flavor": "asic", 
+        "Time_Stamp": "2019-08-27 00:12:21"
+    }, 
+    "Version": "1.0"
+}
