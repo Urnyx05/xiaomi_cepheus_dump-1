@@ -1,0 +1,22 @@
+[
+  {
+    "subject":"explorer",
+    "international":false,
+    "hwversion":[
+      "1.2.2",
+      "1.9.2"
+    ],
+    "guide_sort": "0,f2ba0de9-d970-4e1a-945d-227381adee83",
+    "local": {
+      "id":"0"
+    },
+    "online": {
+      "id":"16461a61-4bad-4476-b176-b7cec97d9b43",
+      "title":{
+        "en_US":"Explorer",
+        "zh_CN": "探索者号"
+      },
+      "preview":"/system/media/theme/.data/preview/default/online_explorer_preview_lockscreen.jpg"
+    }
+  }
+]
